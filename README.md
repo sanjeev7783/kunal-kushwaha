@@ -1,6 +1,5 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Kunal!](https://bio.link/kunalk) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Sanjeev!](https://www.linkedin.com/in/sanjeev-kumar-b00418144/) 
 
-![](https://i.ibb.co/F38F21R/LinkedIn.jpg)
+![](https://github.com/sanjeev7783#hi-there-)
 
-### [Connect with me 💬](https://kunalkushwaha.com) 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=kunal-kushwaha.kunal-kushwaha)
+### [Connect with me 💬](https://www.linkedin.com/in/sanjeev-kumar-b00418144/) 
